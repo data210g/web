@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://hrbrmstr.github.io/elements-of-data-science/</loc>
+    <lastmod>2016-01-24T11:59:32-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://hrbrmstr.github.io/elements-of-data-science/FAQ/</loc>
+    <lastmod>2016-01-24T11:59:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrbrmstr.github.io/elements-of-data-science/texts/</loc>
+    <lastmod>2016-01-24T11:59:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrbrmstr.github.io/elements-of-data-science/syllabus/</loc>
+    <lastmod>2016-01-24T11:59:32-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrbrmstr.github.io/elements-of-data-science/_index/</loc>
+    <lastmod>2016-01-24T11:59:32-05:00</lastmod>
+  </url>
+  
+</urlset>

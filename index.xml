@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elements of Data Science</title>
+    <link>http://hrbrmstr.github.io/elements-of-data-science/</link>
+    <description>Recent content on Elements of Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2016, Bob Rudis; License: MIT</copyright>
+    <lastBuildDate>Sun, 24 Jan 2016 11:59:32 -0500</lastBuildDate>
+    <atom:link href="http://hrbrmstr.github.io/elements-of-data-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FAQ</title>
+      <link>http://hrbrmstr.github.io/elements-of-data-science/FAQ/</link>
+      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://hrbrmstr.github.io/elements-of-data-science/FAQ/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-1&#34;&gt;What will I get out of this course?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-2&#34;&gt;Do I need a computer?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-3&#34;&gt;Do I need to install R on my system?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-4&#34;&gt;Will I need a text?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-5&#34;&gt;Will there be quizzes?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-6&#34;&gt;Will there be tests?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-7&#34;&gt;Will there be projects?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-8&#34;&gt;Can I miss a class?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#faq-9&#34;&gt;Will there be &amp;ldquo;lab&amp;rdquo; days?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr/&gt;
+
+&lt;h3 id=&#34;what-will-i-get-out-of-this-course-a-id-faq-1-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;What will I get out of this course? &lt;a id=&#34;faq-1&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;You will leave this course being able to:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;use the R programming language and RStudio IDE to writing scripts, import &amp;amp; export data and develop visuizations&lt;/li&gt;
+&lt;li&gt;work with a wide array of data sets and be able to &amp;ldquo;tidy&amp;rdquo; data in order to perform structured analyses&lt;/li&gt;
+&lt;li&gt;access data via APIs, including the U.S. Census Bureau, Bureau of Labor Statistics and Health &amp;amp; Human Services (along with virtually any API you can find)&lt;/li&gt;
+&lt;li&gt;use the &amp;ldquo;web&amp;rdquo; as a data source by scraping data from web sites/pages when an API is not available&lt;/li&gt;
+&lt;li&gt;perform exploratory data analysis (EDA) on any data set and describe the structure of data sets, including basic statistical information about the data&lt;/li&gt;
+&lt;li&gt;create data visualzations to communicate the results of your exploratory analyses and findings from general analyses&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;do-i-need-a-computer-a-id-faq-2-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need a computer? &lt;a id=&#34;faq-2&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Yes, you need a computer, but you can use the ones at Great Bay CC if you don&amp;rsquo;t have a personal computer.&lt;/p&gt;
+
+&lt;h3 id=&#34;do-i-need-to-install-r-on-my-system-a-id-faq-3-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Do I need to install R on my system? &lt;a id=&#34;faq-3&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Ideally, yes. However, a cloud-based RStudio Server will be provided by the course to ensure students have access to the a standardized install.&lt;/p&gt;
+
+&lt;h3 id=&#34;will-i-need-a-text-a-id-faq-4-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will I need a text? &lt;a id=&#34;faq-4&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Yes. You can see which texts are required in the &lt;a href=&#34;../texts&#34;&gt;texts section&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;will-there-be-quizzes-a-id-faq-5-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be quizzes? &lt;a id=&#34;faq-5&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Unfortunately, yes. The class meets infrequently enough that it will be important to keep up and one of the only ways to do that is with the shadow of a test of knowledge looming large on the horizon.&lt;/p&gt;
+
+&lt;h3 id=&#34;will-there-be-tests-a-id-faq-6-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be tests? &lt;a id=&#34;faq-6&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Yes. One mid-way through and one final exam.&lt;/p&gt;
+
+&lt;h3 id=&#34;will-there-be-projects-a-id-faq-7-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be projects? &lt;a id=&#34;faq-7&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Yes. After week #1, there will be weekly projects and 1-2 larger projects that run over multiple weeks, plus one final project.&lt;/p&gt;
+
+&lt;h3 id=&#34;can-i-miss-a-class-a-id-faq-8-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Can I miss a class? &lt;a id=&#34;faq-8&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;Kinda&lt;/em&gt;. We meet infrequently and you&amp;rsquo;ll be spotted one absence (excused or otherwise). If you plan or unexpectedly need to miss more, you will need to make arrangements with the instructor to ensure you won&amp;rsquo;t fall behind.&lt;/p&gt;
+
+&lt;h3 id=&#34;will-there-be-lab-days-a-id-faq-9-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be &amp;ldquo;lab&amp;rdquo; days? &lt;a id=&#34;faq-9&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;The class meets in Room 400 and will be a mixture of instructor lectures and interactive work with datasets in R. There is no &amp;ldquo;lab day&amp;rdquo; but you can make arrangements with the instructor to be available at Great Bay. There is also the option for a virtual &amp;ldquo;hangout&amp;rdquo; as well, provided there is a common time folks are willing to set aside outside of class to participate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Required Texts</title>
+      <link>http://hrbrmstr.github.io/elements-of-data-science/texts/</link>
+      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://hrbrmstr.github.io/elements-of-data-science/texts/</guid>
+      <description>
+
+&lt;h3 id=&#34;required-texts-for-gbcc-data210g:e9c732c988a3ce596971183fa352a56e&#34;&gt;Required Texts for GBCC DATA210G&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470908742.html&#34;&gt;Discovering Knowledge in Data&lt;/a&gt;, Wiley, 2014&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://surface.syr.edu/istpub/165/&#34;&gt;An Introduction to Data Science&lt;/a&gt;, Stanton, Syracuse University (free/online)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v040i01/v40i01.pdf&#34;&gt;The Split-Apply-Combine Strategy for Data Analysis&lt;/a&gt;, Journal of Statistical Software April 2011, Volume 40, Issue 1. (free/online)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>http://hrbrmstr.github.io/elements-of-data-science/syllabus/</link>
+      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://hrbrmstr.github.io/elements-of-data-science/syllabus/</guid>
+      <description>
+
+&lt;p&gt;DATA2106 run runs &lt;em&gt;every Wednesday&lt;/em&gt;, 2016-02-16 through 2016-05-09 from 19:00-21:30 (7PM-9:30PM) in &lt;em&gt;Room 400&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;classes:051025d606153e159a2b11ffecb897d5&#34;&gt;&lt;strong&gt;Classes&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;The schedule below is tentative and subject to change, depending on time and class interests.
+We will move at a pace dictated by class discussions. Please check this page often for updates.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Week&lt;/th&gt;
+&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;Content&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-02-16&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;2&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-02-23&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;3&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-03-01&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;4&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-03-08&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-03-15&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;6&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-03-22&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;7&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-03-29&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;8&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-04-05&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;9&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-04-12&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;10&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-04-19&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;11&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-04-26&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;#&#34;&gt;&lt;strong&gt;12&lt;/strong&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;2016-05-03&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>_index</title>
+      <link>http://hrbrmstr.github.io/elements-of-data-science/_index/</link>
+      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://hrbrmstr.github.io/elements-of-data-science/_index/</guid>
+      <description>
+
+&lt;h3 id=&#34;introduction:3976528693a0108357f4928017600865&#34;&gt;Introduction&lt;/h3&gt;
+
+&lt;p&gt;This course is the foundation for introducing students to key topics in data science, including data acquisition/preparation and exploratory data analysis. Major topics include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;an introduction to the R programming language and RStudio integrated development environment&lt;/li&gt;
+&lt;li&gt;working with modern data formats such as &lt;a href=&#34;https://en.wikipedia.org/wiki/XML&#34;&gt;XML&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Comma-separated_values&#34;&gt;CSV&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34;&gt;JSON&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Microsoft_Excel_file_format&#34;&gt;XLS&lt;/a&gt; &amp;amp; &lt;a href=&#34;https://en.wikipedia.org/wiki/XHTML&#34;&gt;XHTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;data import/export from/to files, &lt;a href=&#34;https://en.wikipedia.org/wiki/Application_programming_interface&#34;&gt;API&lt;/a&gt;s, web sites &amp;amp; databases&lt;/li&gt;
+&lt;li&gt;finding data to augment analyses, and&lt;/li&gt;
+&lt;li&gt;exploratory data analysis &amp;amp; visualization.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;instructor-contact:3976528693a0108357f4928017600865&#34;&gt;Instructor Contact&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;📧 &lt;a href=&#34;mailto:rrudis@ccnh.edu&#34;&gt;&lt;code&gt;rrudis@ccnh.edu&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;http://dl.dropbox.com/u/6101039/profiles/twitter-pic.png&#34; alt=&#34;&#34; /&gt; &lt;a href=&#34;https://twitter.com/DATA210G&#34;&gt;@DATA210G&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img src=&#34;http://dl.dropbox.com/u/6101039/profiles/twitter-pic.png&#34; alt=&#34;&#34; /&gt; &lt;a href=&#34;http://twitter.com/hrbrmstr&#34;&gt;@hrbrmstr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;course-topics:3976528693a0108357f4928017600865&#34;&gt;Course Topics:&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Programming in the &lt;a href=&#34;https://www.r-project.org/&#34;&gt;R Programming Language&lt;/a&gt; and using the &lt;a href=&#34;https://www.rstudio.com/products/rstudio/&#34;&gt;RStudio IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Organizing data analysis projects&lt;/li&gt;
+&lt;li&gt;Understanding the data analysis pipeline&lt;/li&gt;
+&lt;li&gt;Cleaning data sets and working with “tidy” data&lt;/li&gt;
+&lt;li&gt;Working with discrete &amp;amp; continuous data&lt;/li&gt;
+&lt;li&gt;Working with modern data formats (e.g. CSV, XML, etc)&lt;/li&gt;
+&lt;li&gt;Accessing data via modern APIs&lt;/li&gt;
+&lt;li&gt;Accessing data in databases&lt;/li&gt;
+&lt;li&gt;Performing exploratory data analysis&lt;/li&gt;
+&lt;li&gt;Visualizing data&lt;/li&gt;
+&lt;li&gt;Communicating analysis results&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;data210g-cloud-based-r-rstudio:3976528693a0108357f4928017600865&#34;&gt;DATA210G Cloud-based R/RStudio&lt;/h3&gt;
+
+&lt;p&gt;Regardless of whether you have R &amp;amp; RStudio installed locally, you can use the &lt;a href=&#34;http://gbcc-rstudio.dds.ec&#34;&gt;cloud instance provided by Great Bay&lt;/a&gt;. This will be the environment used in class.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
