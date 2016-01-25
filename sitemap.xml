@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hrbrmstr.github.io/elements-of-data-science/</loc>
+    <loc>http://data210g.github.io/web/</loc>
     <lastmod>2016-01-24T11:59:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hrbrmstr.github.io/elements-of-data-science/FAQ/</loc>
+    <loc>http://data210g.github.io/web/FAQ/</loc>
     <lastmod>2016-01-24T11:59:32-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrbrmstr.github.io/elements-of-data-science/texts/</loc>
+    <loc>http://data210g.github.io/web/texts/</loc>
     <lastmod>2016-01-24T11:59:32-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrbrmstr.github.io/elements-of-data-science/syllabus/</loc>
+    <loc>http://data210g.github.io/web/syllabus/</loc>
     <lastmod>2016-01-24T11:59:32-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hrbrmstr.github.io/elements-of-data-science/_index/</loc>
+    <loc>http://data210g.github.io/web/_index/</loc>
     <lastmod>2016-01-24T11:59:32-05:00</lastmod>
   </url>
   

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elements of Data Science</title>
-    <link>http://hrbrmstr.github.io/elements-of-data-science/</link>
+    <link>http://data210g.github.io/web/</link>
     <description>Recent content on Elements of Data Science</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Bob Rudis; License: MIT</copyright>
     <lastBuildDate>Sun, 24 Jan 2016 11:59:32 -0500</lastBuildDate>
-    <atom:link href="http://hrbrmstr.github.io/elements-of-data-science/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://data210g.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>FAQ</title>
-      <link>http://hrbrmstr.github.io/elements-of-data-science/FAQ/</link>
+      <link>http://data210g.github.io/web/FAQ/</link>
       <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
       
-      <guid>http://hrbrmstr.github.io/elements-of-data-science/FAQ/</guid>
+      <guid>http://data210g.github.io/web/FAQ/</guid>
       <description>
 
 &lt;ul&gt;
@@ -63,7 +63,7 @@
 
 &lt;h3 id=&#34;will-there-be-tests-a-id-faq-6-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be tests? &lt;a id=&#34;faq-6&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;Yes. One mid-way through and one final exam.&lt;/p&gt;
+&lt;p&gt;Yes. One final exam.&lt;/p&gt;
 
 &lt;h3 id=&#34;will-there-be-projects-a-id-faq-7-a:e6f81a9d8df4fb4d787121a242ea6bf1&#34;&gt;Will there be projects? &lt;a id=&#34;faq-7&#34;&gt;&lt;/a&gt;&lt;/h3&gt;
 
@@ -81,10 +81,10 @@
     
     <item>
       <title>Required Texts</title>
-      <link>http://hrbrmstr.github.io/elements-of-data-science/texts/</link>
+      <link>http://data210g.github.io/web/texts/</link>
       <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
       
-      <guid>http://hrbrmstr.github.io/elements-of-data-science/texts/</guid>
+      <guid>http://data210g.github.io/web/texts/</guid>
       <description>
 
 &lt;h3 id=&#34;required-texts-for-gbcc-data210g:e9c732c988a3ce596971183fa352a56e&#34;&gt;Required Texts for GBCC DATA210G&lt;/h3&gt;
@@ -93,16 +93,17 @@
 &lt;li&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470908742.html&#34;&gt;Discovering Knowledge in Data&lt;/a&gt;, Wiley, 2014&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://surface.syr.edu/istpub/165/&#34;&gt;An Introduction to Data Science&lt;/a&gt;, Stanton, Syracuse University (free/online)&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v040i01/v40i01.pdf&#34;&gt;The Split-Apply-Combine Strategy for Data Analysis&lt;/a&gt;, Journal of Statistical Software April 2011, Volume 40, Issue 1. (free/online)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v059i10/v59i10.pdf&#34;&gt;Tidy Data&lt;/a&gt;, Journal of Statistical Software August 2014, Volume 59, Issue 10 (free/online)&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
       <title>Syllabus</title>
-      <link>http://hrbrmstr.github.io/elements-of-data-science/syllabus/</link>
+      <link>http://data210g.github.io/web/syllabus/</link>
       <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
       
-      <guid>http://hrbrmstr.github.io/elements-of-data-science/syllabus/</guid>
+      <guid>http://data210g.github.io/web/syllabus/</guid>
       <description>
 
 &lt;p&gt;DATA2106 run runs &lt;em&gt;every Wednesday&lt;/em&gt;, 2016-02-16 through 2016-05-09 from 19:00-21:30 (7PM-9:30PM) in &lt;em&gt;Room 400&lt;/em&gt;&lt;/p&gt;
@@ -200,10 +201,10 @@ We will move at a pace dictated by class discussions. Please check this page oft
     
     <item>
       <title>_index</title>
-      <link>http://hrbrmstr.github.io/elements-of-data-science/_index/</link>
+      <link>http://data210g.github.io/web/_index/</link>
       <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
       
-      <guid>http://hrbrmstr.github.io/elements-of-data-science/_index/</guid>
+      <guid>http://data210g.github.io/web/_index/</guid>
       <description>
 
 &lt;h3 id=&#34;introduction:3976528693a0108357f4928017600865&#34;&gt;Introduction&lt;/h3&gt;
