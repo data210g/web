@@ -89,11 +89,26 @@
 
 &lt;h3 id=&#34;required-texts-for-gbcc-data210g:e9c732c988a3ce596971183fa352a56e&#34;&gt;Required Texts for GBCC DATA210G&lt;/h3&gt;
 
+&lt;p&gt;This is the primary text:&lt;/p&gt;
+
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470908742.html&#34;&gt;Discovering Knowledge in Data&lt;/a&gt;, Wiley, 2014&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://surface.syr.edu/istpub/165/&#34;&gt;An Introduction to Data Science&lt;/a&gt;, Stanton, Syracuse University (free/online)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v040i01/v40i01.pdf&#34;&gt;The Split-Apply-Combine Strategy for Data Analysis&lt;/a&gt;, Journal of Statistical Software April 2011, Volume 40, Issue 1. (free/online)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v059i10/v59i10.pdf&#34;&gt;Tidy Data&lt;/a&gt;, Journal of Statistical Software August 2014, Volume 59, Issue 10 (free/online)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470908742.html&#34;&gt;Discovering Knowledge in Data&lt;/a&gt;, Wiley, 2014 &lt;strong&gt;Main Text&lt;/strong&gt; {DKD}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Working in data science means keeping up with advancements in the field (and it is a &lt;em&gt;broad&lt;/em&gt; field). Here are some key supplemental texts we will be using as part of the course (all free):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://surface.syr.edu/istpub/165/&#34;&gt;An Introduction to Data Science&lt;/a&gt;, Stanton, Syracuse University (free/online, also avaiable for free via Apple iBooks) {IDS}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v040i01/v40i01.pdf&#34;&gt;The Split-Apply-Combine Strategy for Data Analysis&lt;/a&gt; , Journal of Statistical Software April 2011, Volume 40, Issue 1. (free/online) {SAC}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v059i10/v59i10.pdf&#34;&gt;Tidy Data&lt;/a&gt;, Journal of Statistical Software August 2014, Volume 59, Issue 10 (free/online) {TD}&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These are some good sites to keep as reference:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html&#34;&gt;Beginner&amp;rsquo;s Guide to R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34;&gt;Intro to R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cookbook-r.com/&#34;&gt;R Cookbook&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
