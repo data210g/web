@@ -23,5 +23,6 @@ th {
 }
 
 tr {
+  vertical-align: top;
   margin-botttom:20px;
 }
