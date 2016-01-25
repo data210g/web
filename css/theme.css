@@ -23,9 +23,9 @@ th {
 }
 
 tr {
-  line-height: 0.9em;
+  line-height: 1.05em;
 }
 
-td {
-  margin-botttom:10px;
+tr {
+  margin-botttom:20px;
 }
