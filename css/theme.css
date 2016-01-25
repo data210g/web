@@ -17,6 +17,10 @@ body {
   width: auto;
 }
 
+table {
+  width:100%;
+}
+
 th { 
   font-weight:bold;
   padding-right:30px;
