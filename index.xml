@@ -128,119 +128,36 @@
 &lt;p&gt;The schedule below is tentative and subject to change, depending on time and class interests.
 We will move at a pace dictated by class discussions. Please check this page often for updates.&lt;/p&gt;
 
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th align=&#34;left&#34;&gt;Date&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;What&amp;rsquo;s going on&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Reading&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
+&lt;p&gt;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+
+| Fruit         | Price         | Advantages         |
++===============+===============+====================+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+
+| Bananas       | first line\   | first line\        |
+|               | next line     | next line          |
++&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+&lt;/p&gt;
 
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-02-16&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;What is &lt;em&gt;&amp;lsquo;Data Science&amp;rsquo;&lt;/em&gt;; Intro to Programming/R/RStudio&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;DKD 1; IDS i&amp;#124;ii&amp;#124;1&amp;#124;3&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-02-19&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Last Day to Add A Late Start Class without Instructor Permission&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-02-22&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Last Day to Drop a Late Start Class with a Full Refund&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-02-23&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Quiz&lt;/strong&gt;; Bending Data To Your Will&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;DKD 2; IDS 2&amp;#124;4&amp;#124;5; TD&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-03-01&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Exploring and visualizing data&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;DKD 3&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-03-04&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Last Day to Add a Late Start Class with Instructor Permission&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-03-08&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Quiz&lt;/strong&gt;; Project 1 DUE;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-03-15&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;**NO CLASSS - SPRING BREAK **&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-03-22&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-03-29&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Quiz&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-04-05&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;Project 2 DUE;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-04-07&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Last Day to Drop a Late Start Class with a Grade of W (60% point)&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-04-12&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Quiz&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-04-19&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-04-25&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Last Day to Drop a Late Start Class with a &amp;lsquo;WP/WF&amp;rsquo;&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-04-26&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;Final Project DUE&lt;/strong&gt;;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;
-&lt;td align=&#34;left&#34;&gt;2016-05-03&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;strong&gt;FINAL EXAM&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;+&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;+
+|Date       |What&amp;rsquo;s going on                                                       |Reading                            |
+|:&amp;mdash;&amp;mdash;&amp;mdash;-|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;|:&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|
+|2016-02-16 |What is &lt;em&gt;&amp;lsquo;Data Science&amp;rsquo;&lt;/em&gt;; Intro to Programming/R/RStudio              |DKD 1; IDS i&amp;#124;ii&amp;#124;1&amp;#124;3 |
+|2016-02-19 |&lt;strong&gt;Last Day to Add A Late Start Class without Instructor Permission&lt;/strong&gt;  |                                   |
+|2016-02-22 |&lt;strong&gt;Last Day to Drop a Late Start Class with a Full Refund&lt;/strong&gt;            |                                   |
+|2016-02-23 |&lt;strong&gt;Quiz&lt;/strong&gt;; Bending Data To Your Will                                   |DKD 2; IDS 2&amp;#124;4&amp;#124;5; TD     |
+|2016-03-01 |Exploring and visualizing data                                        |DKD 3                              |
+|2016-03-04 |&lt;strong&gt;Last Day to Add a Late Start Class with Instructor Permission&lt;/strong&gt;     |                                   |
+|2016-03-08 |&lt;strong&gt;Quiz&lt;/strong&gt;; Project 1 DUE;                                              |                                   |
+|2016-03-15 |**NO CLASSS - SPRING BREAK **                                         |                                   |
+|2016-03-22 |                                                                      |                                   |
+|2016-03-29 |&lt;strong&gt;Quiz&lt;/strong&gt;                                                              |                                   |
+|2016-04-05 |Project 2 DUE;                                                        |                                   |
+|2016-04-07 |&lt;strong&gt;Last Day to Drop a Late Start Class with a Grade of W (60% point)&lt;/strong&gt; |                                   |
+|2016-04-12 |&lt;strong&gt;Quiz&lt;/strong&gt;                                                              |                                   |
+|2016-04-19 |                                                                      |                                   |
+|2016-04-25 |&lt;strong&gt;Last Day to Drop a Late Start Class with a &amp;lsquo;WP/WF&amp;rsquo;&lt;/strong&gt;                |                                   |
+|2016-04-26 |&lt;strong&gt;Final Project DUE&lt;/strong&gt;;                                                |                                   |
+|2016-05-03 |&lt;strong&gt;FINAL EXAM&lt;/strong&gt;                                                        |                                   |&lt;/p&gt;
 </description>
     </item>
     
