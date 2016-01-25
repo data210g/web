@@ -26,3 +26,7 @@ tr {
   vertical-align: top;
   margin-botttom:20px;
 }
+
+td {
+  line-height: 1.0em;
+}
