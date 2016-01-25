@@ -21,3 +21,11 @@ th {
   font-weight:bold;
   padding-right:30px;
 }
+
+tr {
+  line-height: 0.9em;
+}
+
+td {
+  margin-botttom:10px;
+}
