@@ -19,6 +19,7 @@ body {
 
 table {
   width:100%;
+  border-collapse: collapse;
 }
 
 th { 
@@ -28,7 +29,7 @@ th {
 
 tr {
   vertical-align: top;
-  padding-bottom:30px;
+  padding-bottom: .5em;
 }
 
 td {
