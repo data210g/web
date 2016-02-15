@@ -92,29 +92,29 @@
 &lt;p&gt;Working in data science means keeping up with advancements in the field (and it is a &lt;em&gt;broad&lt;/em&gt; field). Here are some key main &amp;amp; supplemental texts we will be using as part of the course (&lt;strong&gt;NOTE:&lt;/strong&gt; &lt;em&gt;the abbreviations between the &lt;strong&gt;{}&lt;/strong&gt; brackets are used in the schedule at the end of the document&lt;/em&gt;):&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470908742.html&#34;&gt;Discovering Knowledge in Data&lt;/a&gt;, Wiley, 2014 &lt;strong&gt;Main text for the course&lt;/strong&gt; {DKD}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://surface.syr.edu/istpub/165/&#34;&gt;An Introduction to Data Science&lt;/a&gt;, Stanton, Syracuse University (free/online, also avaiable for free via Apple iBooks) {IDS}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470908742.html&#34;&gt;Discovering Knowledge in Data&lt;/a&gt;, Wiley, 2014 &lt;strong&gt;Main text for the course&lt;/strong&gt; {DKD}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://surface.syr.edu/istpub/165/&#34;&gt;An Introduction to Data Science&lt;/a&gt;, Stanton, Syracuse University (free/online, also avaiable for free via Apple iBooks) {IDS}&lt;/li&gt;
 &lt;li&gt;&amp;dagger;&lt;a href=&#34;http://www.cookbook-r.com/&#34;&gt;Cookbook for R&lt;/a&gt; Chang, RStudio (free/online {CBR})&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v040i01/v40i01.pdf&#34;&gt;The Split-Apply-Combine Strategy for Data Analysis&lt;/a&gt; Wickham, Journal of Statistical Software April 2011, Volume 40, Issue 1. (free/online) {SAC}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v059i10/v59i10.pdf&#34;&gt;Tidy Data&lt;/a&gt;, Journal of Statistical Software August 2014, Volume 59, Issue 10 (free/online) {TD}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://files.meetup.com/1719908/XML%20for%20Dummies%204th%20Ed%20(ISBN%20-%200764588451&#34;&gt;XML for Dummies&lt;/a&gt;.pdf) (online) {XML}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://borkweb.com/story/the-case-for-json-what-is-it-and-why-use-it&#34;&gt;The case for JSON&lt;/a&gt;, Batchelder (online) {JSON1}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.w3schools.com/json/&#34;&gt;JSON Tutorial&lt;/a&gt; (online) {JSON2}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/&#34;&gt;Using APIs: Not Quite as Hard as it Looks&lt;/a&gt; (online) {API1}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;https://pages.apigee.com/rs/351-WXY-166/images/apigee-APIs-for-Dummies-eBook-2016-01.pdf&#34;&gt;APIs for Dummies&lt;/a&gt; (online) {API2}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://cpsievert.github.io/slides/web-scraping/&#34;&gt;Web Scraping in R&lt;/a&gt;, Sievert, (online) {SCR1}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.computerworld.com/article/2909560/business-intelligence/web-scraping-with-r-and-rvest-includes-video-code.html&#34;&gt;Web scraping with R &amp;amp; rvest&lt;/a&gt;, Machlis (online) {SCR2}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.cssbasics.com/&#34;&gt;CSS Basics&lt;/a&gt; (online) {SCR3}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;https://www.dropbox.com/s/2zdq246vkidb82g/chapter6.pdf?dl=0&#34;&gt;Visualizaing Data&lt;/a&gt;, Rudis (online) {VIS1}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.uccs.edu/Documents/spa/Events/data_visualization_basics_for_students_handout.pdf&#34;&gt;Data visualization basics&lt;/a&gt;, de la Cerda (online) {VIS2}&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt; (online) {RPT1}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v040i01/v40i01.pdf&#34;&gt;The Split-Apply-Combine Strategy for Data Analysis&lt;/a&gt; Wickham, Journal of Statistical Software April 2011, Volume 40, Issue 1. (free/online) {SAC}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jstatsoft.org/article/view/v059i10/v59i10.pdf&#34;&gt;Tidy Data&lt;/a&gt;, Journal of Statistical Software August 2014, Volume 59, Issue 10 (free/online) {TD}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://files.meetup.com/1719908/XML%20for%20Dummies%204th%20Ed%20(ISBN%20-%200764588451&#34;&gt;XML for Dummies&lt;/a&gt;.pdf) (online) {XML}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://borkweb.com/story/the-case-for-json-what-is-it-and-why-use-it&#34;&gt;The case for JSON&lt;/a&gt;, Batchelder (online) {JSON1}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.w3schools.com/json/&#34;&gt;JSON Tutorial&lt;/a&gt; (online) {JSON2}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/&#34;&gt;Using APIs: Not Quite as Hard as it Looks&lt;/a&gt; (online) {API1}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pages.apigee.com/rs/351-WXY-166/images/apigee-APIs-for-Dummies-eBook-2016-01.pdf&#34;&gt;APIs for Dummies&lt;/a&gt; (online) {API2}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://cpsievert.github.io/slides/web-scraping/&#34;&gt;Web Scraping in R&lt;/a&gt;, Sievert, (online) {SCR1}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computerworld.com/article/2909560/business-intelligence/web-scraping-with-r-and-rvest-includes-video-code.html&#34;&gt;Web scraping with R &amp;amp; rvest&lt;/a&gt;, Machlis (online) {SCR2}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cssbasics.com/&#34;&gt;CSS Basics&lt;/a&gt; (online) {SCR3}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/2zdq246vkidb82g/chapter6.pdf?dl=0&#34;&gt;Visualizaing Data&lt;/a&gt;, Rudis (online) {VIS1}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.uccs.edu/Documents/spa/Events/data_visualization_basics_for_students_handout.pdf&#34;&gt;Data visualization basics&lt;/a&gt;, de la Cerda (online) {VIS2}&lt;/li&gt;
+&lt;li&gt;&amp;dddagger;&lt;a href=&#34;http://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt; (online) {RPT1}&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;These are some good sites to keep as reference:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html&#34;&gt;Beginner&amp;rsquo;s Guide to R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&amp;ddagger;&lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34;&gt;Intro to R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html&#34;&gt;Beginner&amp;rsquo;s Guide to R&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34;&gt;Intro to R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&amp;daggger;&lt;a href=&#34;http://www.mulinblog.com/teaching-data-visualization-recommended-readings-and-resources/&#34;&gt;Data vis recommended readings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
