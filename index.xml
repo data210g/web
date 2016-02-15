@@ -107,7 +107,7 @@
 &lt;li&gt;&lt;a href=&#34;http://www.cssbasics.com/&#34;&gt;CSS Basics&lt;/a&gt; (online) {SCR3}&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.dropbox.com/s/2zdq246vkidb82g/chapter6.pdf?dl=0&#34;&gt;Visualizaing Data&lt;/a&gt;, Rudis (online) {VIS1}&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.uccs.edu/Documents/spa/Events/data_visualization_basics_for_students_handout.pdf&#34;&gt;Data visualization basics&lt;/a&gt;, de la Cerda (online) {VIS2}&lt;/li&gt;
-&lt;li&gt;&amp;dddagger;&lt;a href=&#34;http://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt; (online) {RPT1}&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://rmarkdown.rstudio.com/&#34;&gt;R Markdown&lt;/a&gt; (online) {RPT1}&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;These are some good sites to keep as reference:&lt;/p&gt;
@@ -115,7 +115,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.computerworld.com/article/2497143/business-intelligence/business-intelligence-beginner-s-guide-to-r-introduction.html&#34;&gt;Beginner&amp;rsquo;s Guide to R&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.datacamp.com/courses/free-introduction-to-r&#34;&gt;Intro to R&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&amp;daggger;&lt;a href=&#34;http://www.mulinblog.com/teaching-data-visualization-recommended-readings-and-resources/&#34;&gt;Data vis recommended readings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.mulinblog.com/teaching-data-visualization-recommended-readings-and-resources/&#34;&gt;Data vis recommended readings&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -274,6 +274,7 @@ We will move at a pace dictated by class discussions. Please check this page oft
 &lt;h3 id=&#34;instructor-contact:3976528693a0108357f4928017600865&#34;&gt;Instructor Contact&lt;/h3&gt;
 
 &lt;ul&gt;
+&lt;li&gt;Bob Rudis&lt;/li&gt;
 &lt;li&gt;📧 &lt;a href=&#34;mailto:rrudis@ccnh.edu&#34;&gt;&lt;code&gt;rrudis@ccnh.edu&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&#34;http://dl.dropbox.com/u/6101039/profiles/twitter-pic.png&#34; alt=&#34;&#34; /&gt; &lt;a href=&#34;https://twitter.com/DATA210G&#34;&gt;@DATA210G&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;img src=&#34;http://dl.dropbox.com/u/6101039/profiles/twitter-pic.png&#34; alt=&#34;&#34; /&gt; &lt;a href=&#34;http://twitter.com/hrbrmstr&#34;&gt;@hrbrmstr&lt;/a&gt;&lt;/li&gt;
