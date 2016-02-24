@@ -11,6 +11,22 @@
     <atom:link href="http://data210g.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Datasets</title>
+      <link>http://data210g.github.io/web/data/</link>
+      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://data210g.github.io/web/data/</guid>
+      <description>
+
+&lt;h3 id=&#34;data-sets:494b4c66d4128fe395a8c9607fab3629&#34;&gt;Data Sets&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Historical time series table of &lt;a href=&#34;../static/voting.csv&#34;&gt;Reported Voting and Registration for Total and Citizen Voting-Age Population, by State for Presidential Elections&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FAQ</title>
       <link>http://data210g.github.io/web/FAQ/</link>
       <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
