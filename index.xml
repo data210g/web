@@ -7,30 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Bob Rudis; License: MIT</copyright>
-    <lastBuildDate>Sun, 24 Jan 2016 11:59:32 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 04 Mar 2016 11:59:32 -0500</lastBuildDate>
     <atom:link href="http://data210g.github.io/web/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Datasets</title>
-      <link>http://data210g.github.io/web/data/</link>
-      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
-      
-      <guid>http://data210g.github.io/web/data/</guid>
-      <description>
-
-&lt;h3 id=&#34;data-sets:494b4c66d4128fe395a8c9607fab3629&#34;&gt;Data Sets&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Historical time series table of &lt;a href=&#34;../dl/voting.csv&#34;&gt;Reported Voting and Registration for Total and Citizen Voting-Age Population, by State for Presidential Elections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../dl/ibm.csv&#34;&gt;IBM historical stock prices&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>Examples</title>
       <link>http://data210g.github.io/web/examples/</link>
-      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
+      <pubDate>Fri, 04 Mar 2016 11:59:32 -0500</pubDate>
       
       <guid>http://data210g.github.io/web/examples/</guid>
       <description>
@@ -49,6 +32,23 @@
 &lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/157768739&#34; width=&#34;500&#34; height=&#34;375&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;https://vimeo.com/157768739&#34;&gt;Data Wrangling Extra - GBCC DATA 210G&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/uhrbrmstr&#34;&gt;boB Rudis&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/157781334&#34; width=&#34;500&#34; height=&#34;375&#34; frameborder=&#34;0&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;https://vimeo.com/157781334&#34;&gt;Plotting &amp;amp; Munging Extra - GBCC DATA 210G&lt;/a&gt; from &lt;a href=&#34;https://vimeo.com/uhrbrmstr&#34;&gt;boB Rudis&lt;/a&gt; on &lt;a href=&#34;https://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Datasets</title>
+      <link>http://data210g.github.io/web/data/</link>
+      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://data210g.github.io/web/data/</guid>
+      <description>
+
+&lt;h3 id=&#34;data-sets:494b4c66d4128fe395a8c9607fab3629&#34;&gt;Data Sets&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Historical time series table of &lt;a href=&#34;../dl/voting.csv&#34;&gt;Reported Voting and Registration for Total and Citizen Voting-Age Population, by State for Presidential Elections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../dl/ibm.csv&#34;&gt;IBM historical stock prices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

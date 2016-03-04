@@ -3,17 +3,17 @@
   
   <url>
     <loc>http://data210g.github.io/web/</loc>
-    <lastmod>2016-01-24T11:59:32-05:00</lastmod>
+    <lastmod>2016-03-04T11:59:32-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://data210g.github.io/web/data/</loc>
-    <lastmod>2016-01-24T11:59:32-05:00</lastmod>
+    <loc>http://data210g.github.io/web/examples/</loc>
+    <lastmod>2016-03-04T11:59:32-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://data210g.github.io/web/examples/</loc>
+    <loc>http://data210g.github.io/web/data/</loc>
     <lastmod>2016-01-24T11:59:32-05:00</lastmod>
   </url>
   
