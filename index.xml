@@ -7,8 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Bob Rudis; License: MIT</copyright>
-    <lastBuildDate>Fri, 04 Mar 2016 11:59:32 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2016 11:59:32 -0500</lastBuildDate>
     <atom:link href="http://data210g.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Datasets</title>
+      <link>http://data210g.github.io/web/data/</link>
+      <pubDate>Mon, 07 Mar 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://data210g.github.io/web/data/</guid>
+      <description>
+
+&lt;h3 id=&#34;data-sets:494b4c66d4128fe395a8c9607fab3629&#34;&gt;Data Sets&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Historical time series table of &lt;a href=&#34;../dl/voting.csv&#34;&gt;Reported Voting and Registration for Total and Citizen Voting-Age Population, by State for Presidential Elections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../dl/ibm.csv&#34;&gt;IBM historical stock prices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../dl/laucnty14.tsv&#34;&gt;2014 County Unemployment&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Examples</title>
@@ -32,23 +50,6 @@
 &lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/2TaeBFPG8i4&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;iframe width=&#34;640&#34; height=&#34;360&#34; src=&#34;https://www.youtube.com/embed/ovNUiS0a7xA?feature=player_detailpage&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Datasets</title>
-      <link>http://data210g.github.io/web/data/</link>
-      <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
-      
-      <guid>http://data210g.github.io/web/data/</guid>
-      <description>
-
-&lt;h3 id=&#34;data-sets:494b4c66d4128fe395a8c9607fab3629&#34;&gt;Data Sets&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Historical time series table of &lt;a href=&#34;../dl/voting.csv&#34;&gt;Reported Voting and Registration for Total and Citizen Voting-Age Population, by State for Presidential Elections&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../dl/ibm.csv&#34;&gt;IBM historical stock prices&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
