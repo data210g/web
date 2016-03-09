@@ -54,6 +54,37 @@
     </item>
     
     <item>
+      <title>Quizzes</title>
+      <link>http://data210g.github.io/web/quizzes/</link>
+      <pubDate>Fri, 04 Mar 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://data210g.github.io/web/quizzes/</guid>
+      <description>
+
+&lt;h3 id=&#34;quiz-2:25108e12851f74de12745d137cca2371&#34;&gt;Quiz 2&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Find the link to the county unemployment data file link on this course site&lt;/li&gt;
+&lt;li&gt;Read it into R&lt;/li&gt;
+&lt;li&gt;Find the county in Maine with the lowest unemployment and display the county name and unemployment rate&lt;/li&gt;
+&lt;li&gt;Find the county in New Hampshire with the highest unemployment rate in 2014 and display the county name and unemployment rate&lt;/li&gt;
+&lt;li&gt;BONUS: Take home, due by Saturday 23:59EST : for each state, display the counties with the highest and lowest unemployment rates. Output should be county name, state, rate with one row for highest and one for lowest for each state (104 total rows)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For both, save the output in your gbcc-rstudio server directory as quiz2.txt or quiz2.csv. You can do this by copying and pasting from the console to new source file and naming it quiz2.txt or use &lt;code&gt;write.csv&lt;/code&gt; or &lt;code&gt;write_csv&lt;/code&gt; from the tidyr package.&lt;/p&gt;
+
+&lt;h4 id=&#34;hints:25108e12851f74de12745d137cca2371&#34;&gt;Hints:&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;tidyr&lt;/code&gt;, &lt;code&gt;dplyr&lt;/code&gt;, &lt;code&gt;readr&lt;/code&gt; will be useful packages&lt;/li&gt;
+&lt;li&gt;from &lt;code&gt;tidyr&lt;/code&gt;, you may want to look at the help for &lt;code&gt;separate&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;from &lt;code&gt;dplyr&lt;/code&gt;, you may want to look at the help for &lt;code&gt;arrange&lt;/code&gt;, &lt;code&gt;filter&lt;/code&gt;, &lt;code&gt;select&lt;/code&gt;, &lt;code&gt;desc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;you may want to refresh your memory of &lt;code&gt;head&lt;/code&gt; and &lt;code&gt;tail&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>FAQ</title>
       <link>http://data210g.github.io/web/FAQ/</link>
       <pubDate>Sun, 24 Jan 2016 11:59:32 -0500</pubDate>
