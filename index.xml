@@ -64,11 +64,11 @@
 &lt;h3 id=&#34;quiz-2:25108e12851f74de12745d137cca2371&#34;&gt;Quiz 2&lt;/h3&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Find the link to the county unemployment data file link on this course site&lt;br/&gt;&lt;/li&gt;
-&lt;li&gt;Read it into R&lt;br/&gt;&lt;/li&gt;
-&lt;li&gt;Find the county in Maine with the lowest unemployment and display the county name and unemployment rate&lt;br/&gt;&lt;/li&gt;
-&lt;li&gt;Find the county in New Hampshire with the highest unemployment rate in 2014 and display the county name and unemployment rate&lt;br/&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;BONUS&lt;/em&gt;: Take home, due by Saturday 23:59EST : for each state, display the counties with the highest and lowest unemployment rates. Output should be county name, state, rate with one row for highest and one for lowest for each state (104 total rows)&lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;Find the link to the county unemployment data file link on this course site&lt;br/&gt; &lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;Read it into R&lt;br/&gt; &lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;Find the county in Maine with the lowest unemployment and display the county name and unemployment rate&lt;br/&gt; &lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;Find the county in New Hampshire with the highest unemployment rate in 2014 and display the county name and unemployment rate&lt;br/&gt; &lt;br/&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;BONUS&lt;/em&gt;: Take home, due by Saturday 23:59EST : for each state, display the counties with the highest and lowest unemployment rates. Output should be county name, state, rate with one row for highest and one for lowest for each state (104 total rows)&lt;br/&gt; &lt;br/&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;For both, save the output in your gbcc-rstudio server directory as &lt;code&gt;quiz2.txt&lt;/code&gt; or &lt;code&gt;quiz2.csv&lt;/code&gt;. You can do this by copying and pasting from the console to new source file and naming it &lt;code&gt;quiz2.txt&lt;/code&gt; or use &lt;code&gt;write.csv&lt;/code&gt; or &lt;code&gt;write_csv&lt;/code&gt; from the &lt;code&gt;tidyr&lt;/code&gt; package.&lt;/p&gt;
