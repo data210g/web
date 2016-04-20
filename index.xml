@@ -7,8 +7,56 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2016, Bob Rudis; License: MIT</copyright>
-    <lastBuildDate>Mon, 07 Mar 2016 11:59:32 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 19 Apr 2016 11:59:32 -0500</lastBuildDate>
     <atom:link href="http://data210g.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Final Project</title>
+      <link>http://data210g.github.io/web/finalproject/</link>
+      <pubDate>Tue, 19 Apr 2016 11:59:32 -0500</pubDate>
+      
+      <guid>http://data210g.github.io/web/finalproject/</guid>
+      <description>
+
+&lt;h3 id=&#34;final-project:15b7e08b4596d7bb16d363e6e4bd7286&#34;&gt;Final Project&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Pick a data set. Some suggestions:
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.seanlahman.com/baseball-archive/statistics/&#34;&gt;Lahman&amp;rsquo;s Baseball Database&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../dl/airport.dat&#34;&gt;US Airport Statistics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://openflights.org/data.html&#34;&gt;Moar US Airport Stats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;ggplot2movies::movies&lt;/code&gt; built-in data set from the &lt;code&gt;ggplot2movies&lt;/code&gt; packages (you&amp;rsquo;ll need to install that pkg)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../dl/senate_bipartisan_index.csv&#34;&gt;Senate Bipartisan Rankings&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../dl/flinth20.csv&#34;&gt;Flint Water Data&lt;/a&gt; (you may want to hit up the Census web site as well)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Identify at least one question you want to answer using the data set&lt;/li&gt;
+&lt;li&gt;Use R to answer that/those question(s)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;minimum-requirements:15b7e08b4596d7bb16d363e6e4bd7286&#34;&gt;Minimum Requirements&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Title&lt;/li&gt;
+&lt;li&gt;Question(s)&lt;/li&gt;
+&lt;li&gt;Data source(s) Reference(s) &amp;amp; Description&lt;/li&gt;
+&lt;li&gt;Basic descriptive statitstics (mean, medians, percentiles)&lt;/li&gt;
+&lt;li&gt;Salient exploratory data visualizations (can be simple bars, scatterplots, boxplots, lines)&lt;/li&gt;
+&lt;li&gt;Code you used to analyze the data&lt;/li&gt;
+&lt;li&gt;The answer(s) you found for the question(s)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;form:15b7e08b4596d7bb16d363e6e4bd7286&#34;&gt;Form&lt;/h3&gt;
+
+&lt;p&gt;You will need to show all your work. There are two options for the output:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;A Word/Google doc with the report text &amp;amp; graphics plus a separate file with R code&lt;/li&gt;
+&lt;li&gt;A &amp;ldquo;knitted&amp;rdquo; R Markdown report (covered today and April 27)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Datasets</title>
